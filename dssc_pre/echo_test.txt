@@ -1,0 +1,2 @@
+to create and write inside a file
+use >> to add and not delete

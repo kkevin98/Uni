@@ -1,0 +1,9 @@
+dist: bionic
+language: cpp
+
+env:
+  - COMPILER=g++
+  - COMPILER=clang++
+
+script:
+  - make CXX=$COMPILER
